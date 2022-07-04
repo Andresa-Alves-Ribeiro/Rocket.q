@@ -39,11 +39,11 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 
 ## Como usar?
 
-Download this repositorie and with your teminal, enter in the directory
+Baixe este repositório e com seu terminal, entre no diretório
 
-1. Run the command `npm install` to install the dependencies
-2. After, run the command `npm run init-db` to install the database
-3. And to start the application, run the command `npm start` 
+1. Execute o comando `npm install` para instalar as dependências
+2. Após, execute o comando `npm run init-db` para instalar o banco de dados
+3. E para iniciar o aplicativo, execute o comando `npm start` 
 
 ## 🔖 Layout
 
